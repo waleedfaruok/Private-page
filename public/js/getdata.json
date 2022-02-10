@@ -1,0 +1,87 @@
+{
+    "servecis":[
+       {
+           "id":1,
+           "icon":"fas fa-edit",
+           "title":"Web designer",
+           "addtitle":"Designing websites using CSS, HTML, languages ​​In the best quality, with design interrogation with all screens"
+       },
+       {
+        "id":2,
+        "icon":"fas fa-fist-raised",
+        "title":"Website Development",
+        "addtitle":"Website development using JavaScript, the best language for developing websites with new languages"
+    },
+    {
+        "id":3,
+        "icon":"fad fa-dungeon",
+        "title":"Website design and development",
+        "addtitle":"Here we will combine design and development, including using the react js framework"
+    }
+    ],
+    "project":[
+        {
+            "id":1,
+            "img":"image/body.jpg",
+            "title":"create website Gym",
+            "artecil":"website Gym",
+            "links":"https://waleedfaruok.github.io/Temblate-Gym/",
+            "icon":"fas fa-sign-out"
+        },
+        {
+            "id":2,
+            "img":"image/Home5.jpg",
+            "title":" contracting company",
+            "artecil":"website contracting ",
+            "links":"https://waleedfaruok.github.io/Temblate-create-React-js/",
+            "icon":"fas fa-sign-out"
+        },
+        {
+            "id":3,
+            "img":"image/pad2.jpg",
+            "title":"create website educa",
+            "artecil":"website educa",
+            "links":"https://waleedfaruok.github.io/Temblate-Educa/",
+            "icon":"fas fa-sign-out"
+        },
+        {
+            "id":4,
+            "img":"image/calc.jpg",
+            "title":"create calculator",
+            "artecil":"website calculator",
+            "links":"https://waleedfaruok.github.io/Temblate-calc/",
+            "icon":"fas fa-sign-out"
+        },
+        {
+            "id":5,
+            "img":"image/kafe4.jpg",
+            "title":" website coffee shop",
+            "artecil":"website coffee ",
+            "links":"https://waleedfaruok.github.io/Temblaet-tow/",
+            "icon":"fas fa-sign-out"
+        },
+        {
+            "id":6,
+            "img":"image/tref15.jpg",
+            "title":"create website travel",
+            "artecil":"website travel",
+            "links":"https://waleedfaruok.github.io/React-travel/",
+            "icon":"fas fa-sign-out"
+        }
+    ],
+
+    "contact":[
+        {
+            "id":1,
+            "icon":"fas fa-mobile",
+            "phone":"My private number",
+            "number":"+02-11788-666-44"
+        },
+        {
+            "id":2,
+            "icon":"fas fa-at",
+            "phone":"private email",
+            "number":"waleedfarouk@gamil.com"
+        }
+    ]
+}

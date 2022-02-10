@@ -1,0 +1,36 @@
+footer{
+    margin-top: 100px;
+}
+.name{
+    width: fit-content;
+    margin: 20px auto;
+    text-transform: capitalize;
+    color: var(--color);
+    font-size: 30px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons i{
+    display: block;
+    margin: 0 10px;
+    transition:opacity .2s ease-in-out ;
+}
+.icons i:hover{
+    opacity: .7;
+}
+.linkses{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+.linkses a{
+    color: gray;
+    text-decoration: none;
+}
+.linkses span{
+    color: var(--color);
+}
